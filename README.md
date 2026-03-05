@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil! 
 Soy **Desarrollador web** con pasión por crear soluciones limpias, eficientes y con buen diseño.<br><br>
-![](foto.jpeg)
+![](foto.png)
 
 
 ## Tecnologías
