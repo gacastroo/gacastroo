@@ -1,7 +1,9 @@
 # Hola, soy Guillermo
 
 ¡Bienvenido a mi perfil! 
-Soy **Desarrollador web** con pasión por crear soluciones limpias, eficientes y con buen diseño.
+Soy **Desarrollador web** con pasión por crear soluciones limpias, eficientes y con buen diseño.<br><br>
+![](foto.jpeg)
+
 
 ## Tecnologías
  Manejo herramientas como:
@@ -35,7 +37,8 @@ El objetivo de este proyecto es desarrollar un sistema de gestión de una tienda
 
 📍 Madrid, España  
 📧 Email: guillermoandca@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/guillermo-castro-abarcaa/
+🔗 LinkedIn: https://www.linkedin.com/in/guillermo-castro-abarcaa/<br>
+📄 CV: [Clica aquí para ver mi CV 😺](CV_GuillermoCastro.pdf)
 
 ---
 
