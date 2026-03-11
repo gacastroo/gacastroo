@@ -1,8 +1,15 @@
 # Hola, soy Guillermo
 
 ¡Bienvenido a mi perfil! 
-Soy **Desarrollador web** con pasión por crear soluciones limpias, eficientes y con buen diseño.<br><br>
+Soy un **Desarrollador Web** con pasión por crear soluciones eficientes, funcionales y con buen diseño.  
+Me especializo en el desarrollo de **aplicaciones web completas**, desde la interfaz de usuario hasta la lógica de negocio y la conexión con bases de datos.<br><br>
 <img src="foto.png" width="300">
+
+## Sobre mí
+- Formación en **DAW (Desarrollo de Aplicaciones Web)**, lo que me permite manejar tanto **frontend** como **backend**.  
+- Experiencia con tecnologías como **HTML, CSS, JavaScript, React, Angular, Java, Spring Boot, SQL**, entre otras.  
+- Interesado en **APIs REST, desarrollo de aplicaciones escalables y buenas prácticas de programación**.  
+- Apasionado por el aprendizaje continuo y la mejora constante de mis proyectos.
 
 
 ## Tecnologías
