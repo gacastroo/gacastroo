@@ -50,10 +50,10 @@ El objetivo de este proyecto es mostrar mi capacidad para estructurar aplicacion
 
 🔗 [Portfolio](https://github.com/gacastroo/Portfolio)
 
-### 🔹 Proyecto 3 – *Libreria*
-El objetivo de este proyecto es desarrollar un sistema de gestión de una tienda de libros en Java que incluya funcionalidades de manejo de inventario, gestión de clientes, ventas, interfaz gráfica de usuario (GUI) y persistencia de datos en archivos.
+### 🔹 Proyecto 3 – *Escape_Room*
+Backend de simulación para un sistema de Escape Room digitalizado. La aplicación permite gestionar salas temáticas, jugadores y el estado de las partidas en tiempo real, registrando información como tiempos de juego, puzzles resueltos y resultados de escape.
 
-🔗 [Libreria](https://github.com/gacastroo/LibreriaProyect)
+🔗 [Escape?Room]([https://github.com/gacastroo/LibreriaProyect](https://github.com/gacastroo/Escape_Room))
 
 ## Contáctame
 
