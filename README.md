@@ -53,7 +53,7 @@ El objetivo de este proyecto es mostrar mi capacidad para estructurar aplicacion
 ### 🔹 Proyecto 3 – *Escape_Room*
 Backend de simulación para un sistema de Escape Room digitalizado. La aplicación permite gestionar salas temáticas, jugadores y el estado de las partidas en tiempo real, registrando información como tiempos de juego, puzzles resueltos y resultados de escape.
 
-🔗 [Escape?Room]([https://github.com/gacastroo/LibreriaProyect](https://github.com/gacastroo/Escape_Room))
+🔗 [Escape_Room](https://github.com/gacastroo/Escape_Room)
 
 ## Contáctame
 
