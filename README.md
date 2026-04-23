@@ -55,6 +55,12 @@ Backend de simulación para un sistema de Escape Room digitalizado. La aplicaci�
 
 🔗 [Escape_Room](https://github.com/gacastroo/Escape_Room)
 
+### 🔹 Proyecto 4 – *Guia Github-Git*
+Este proyecto es una guía visual sobre el uso de GitHub, desarrollada como una página web estática.
+El diseño está inspirado en la interfaz de GitHub, con estilos tipo Markdown para mejorar la legibilidad.
+
+🔗 [Guia Github](https://github.com/gacastroo/guiaGithub)
+
 ## Contáctame
 
 📍 Madrid, España  
