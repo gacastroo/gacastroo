@@ -61,6 +61,14 @@ El diseño está inspirado en la interfaz de GitHub, con estilos tipo Markdown p
 
 🔗 [Guia Github](https://github.com/gacastroo/guiaGithub)
 
+### 🔹 Proyecto 5 – *Notala*
+
+Notala es una aplicación web de gestión de notas desarrollada con React.  
+Permite crear, editar, eliminar, buscar y organizar notas mediante una interfaz sencilla y enfocada en la productividad. El proyecto incluye funcionalidades como guardado automático, organización por carpetas o etiquetas, formato básico de texto y gestión de copias de seguridad.  
+El objetivo de este proyecto es construir una herramienta útil y escalable, aplicando buenas prácticas de desarrollo frontend, gestión de estado y experiencia de usuario.
+
+🔗 [Notala](https://github.com/gacastroo/Notala)
+
 ## Contáctame
 
 📍 Madrid, España  
