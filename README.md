@@ -70,6 +70,20 @@ El objetivo de este proyecto es construir una herramienta útil y escalable, apl
 
 🔗 [Notala](https://github.com/gacastroo/Notala)
 
+### 🔹 Proyecto 6 – *MiniChatAI*
+
+MiniChatAI es un chat conversacional que se comunica con modelos de lenguaje a través de la API de OpenRouter.  
+Construido con **PHP 8, POO y MVC**, sin frameworks, sin Composer y sin base de datos. La interfaz usa JavaScript nativo con `fetch` y Tailwind CSS.
+
+🔗 [MiniChatAI](https://github.com/gacastroo/MiniChatAI)
+
+### 🔹 Proyecto 7 – *ERP Spain*
+
+ERP Spain es un sistema de planificación de recursos empresariales adaptado al contexto español.  
+Desarrollado con **Java, Spring Boot, JPA/Hibernate y MySQL**, incluyendo módulos de facturación, inventario, clientes y proveedores, con autenticación mediante Spring Security.
+
+🔗 [ERP Spain](https://github.com/gacastroo/erp-spain)
+
 ## Contáctame
 
 📍 Madrid, España  
