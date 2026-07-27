@@ -39,50 +39,86 @@ Me especializo en el desarrollo de **aplicaciones web completas**, desde la inte
 
 ## Proyectos Destacados
 
-### 🔹 Proyecto 1 – *LoreWeaver*
-LoreWeaver, consiste en una aplicación web dirigida a quienes quieren crear una historia: escritores, guionistas, creadores de contenido narrativo. La idea es proporcionar una herramienta que permita desarrollar historias de forma interactiva. La aplicación permitirá a los usuarios crear y gestionar fichas de personajes, eventos, universos, capítulos, escenas y relaciones entre ellos. A través de un sistema visual, se podrán visualizar las conexiones narrativas, ayudando a detectar incoherencias y ayudando a mantener la cohesión de la historia.
+### 🔹 Proyecto 1 – *Portfolio*
 
-🔗 [LoreWeaver](https://github.com/gacastroo/LoreWeaver)
+Portfolio personal desarrollado con React para presentar mis proyectos, habilidades técnicas y experiencia.
 
-### 🔹 Proyecto 2 – *Portfolio*
-Portfolio personal desarrollado con React donde presento mis proyectos, habilidades técnicas y experiencia.
-El objetivo de este proyecto es mostrar mi capacidad para estructurar aplicaciones frontend escalables, reutilizables y bien organizadas. (En desarrollo)
+El objetivo del proyecto es demostrar mi capacidad para estructurar aplicaciones frontend escalables, reutilizables y bien organizadas, además de centralizar el acceso al resto de mis trabajos.
+
+Actualmente se encuentra en desarrollo.
 
 🔗 [Portfolio](https://github.com/gacastroo/Portfolio)
 
-### 🔹 Proyecto 3 – *Escape_Room*
-Backend de simulación para un sistema de Escape Room digitalizado. La aplicación permite gestionar salas temáticas, jugadores y el estado de las partidas en tiempo real, registrando información como tiempos de juego, puzzles resueltos y resultados de escape.
+---
 
-🔗 [Escape_Room](https://github.com/gacastroo/Escape_Room)
+### 🔹 Proyecto 2 – *LoreWeaver*
 
-### 🔹 Proyecto 4 – *Guia Github-Git*
-Este proyecto es una guía visual sobre el uso de GitHub, desarrollada como una página web estática.
-El diseño está inspirado en la interfaz de GitHub, con estilos tipo Markdown para mejorar la legibilidad.
+LoreWeaver es una aplicación web dirigida a escritores, guionistas y creadores de contenido narrativo.
 
-🔗 [Guia Github](https://github.com/gacastroo/guiaGithub)
+La aplicación permite crear y gestionar fichas de personajes, eventos, universos, capítulos, escenas y relaciones entre los diferentes elementos de una historia. Mediante un sistema visual, los usuarios pueden consultar las conexiones narrativas, detectar incoherencias y mantener la cohesión de sus proyectos.
 
-### 🔹 Proyecto 5 – *Notala*
+Este proyecto destaca por su originalidad, su complejidad funcional y el modelado de relaciones entre múltiples entidades.
 
-Notala es una aplicación web de gestión de notas desarrollada con React.  
-Permite crear, editar, eliminar, buscar y organizar notas mediante una interfaz sencilla y enfocada en la productividad. El proyecto incluye funcionalidades como guardado automático, organización por carpetas o etiquetas, formato básico de texto y gestión de copias de seguridad.  
+🔗 [LoreWeaver](https://github.com/gacastroo/LoreWeaver)
 
-El objetivo de este proyecto es construir una herramienta útil y escalable, aplicando buenas prácticas de desarrollo frontend, gestión de estado y experiencia de usuario.
+---
 
-🔗 [Notala](https://github.com/gacastroo/Notala)
+### 🔹 Proyecto 3 – *ERP Spain*
 
-### 🔹 Proyecto 6 – *MiniChatAI*
+ERP Spain es un sistema de planificación de recursos empresariales adaptado al contexto español.
 
-MiniChatAI es un chat conversacional que se comunica con modelos de lenguaje a través de la API de OpenRouter.  
-Construido con **PHP 8, POO y MVC**, sin frameworks, sin Composer y sin base de datos. La interfaz usa JavaScript nativo con `fetch` y Tailwind CSS.
+Está desarrollado con **Java, Spring Boot, JPA/Hibernate y MySQL** e incluye módulos de facturación, inventario, clientes y proveedores, además de autenticación mediante Spring Security.
+
+Este proyecto demuestra conocimientos de arquitectura backend, persistencia de datos, seguridad y desarrollo de aplicaciones empresariales.
+
+🔗 [ERP Spain](https://github.com/gacastroo/erp-spain)
+
+---
+
+### 🔹 Proyecto 4 – *MiniChatAI*
+
+MiniChatAI es un chat conversacional que se comunica con modelos de lenguaje mediante la API de OpenRouter.
+
+Está construido con **PHP 8, programación orientada a objetos y arquitectura MVC**, sin frameworks, Composer ni base de datos. La interfaz utiliza JavaScript nativo con `fetch` y Tailwind CSS.
+
+Este proyecto refleja conocimientos de arquitectura web, integración con APIs externas y desarrollo de aplicaciones sin depender de frameworks.
 
 🔗 [MiniChatAI](https://github.com/gacastroo/MiniChatAI)
 
-### 🔹 Proyecto 7 – *ERP Spain*
+---
 
-ERP Spain es un sistema de planificación de recursos empresariales adaptado al contexto español.  
-Desarrollado con **Java, Spring Boot, JPA/Hibernate y MySQL**, incluyendo módulos de facturación, inventario, clientes y proveedores, con autenticación mediante Spring Security.
+### 🔹 Proyecto 5 – *Notala*
 
-🔗 [ERP Spain](https://github.com/gacastroo/erp-spain)
+Notala es una aplicación web de gestión de notas desarrollada con React.
+
+Permite crear, editar, eliminar, buscar y organizar notas mediante una interfaz sencilla enfocada en la productividad. Incluye funcionalidades como guardado automático, organización por carpetas o etiquetas, formato básico de texto y gestión de copias de seguridad.
+
+El proyecto está orientado a aplicar buenas prácticas de desarrollo frontend, gestión del estado, escalabilidad y experiencia de usuario.
+
+🔗 [Notala](https://github.com/gacastroo/Notala)
+
+---
+
+### 🔹 Proyecto 6 – *Escape_Room*
+
+Escape_Room es el backend de simulación de un sistema de Escape Room digitalizado.
+
+La aplicación permite gestionar salas temáticas, jugadores y el estado de las partidas, registrando información como tiempos de juego, puzles resueltos y resultados de escape.
+
+Este proyecto demuestra capacidad para modelar reglas de negocio, gestionar estados y estructurar una aplicación backend.
+
+🔗 [Escape_Room](https://github.com/gacastroo/Escape_Room)
+
+---
+
+### 🔹 Proyecto 7 – *Guía GitHub-Git*
+
+Guía visual sobre el uso de Git y GitHub desarrollada como una página web estática.
+
+El diseño está inspirado en la interfaz de GitHub y utiliza estilos similares a Markdown para mejorar la organización y legibilidad del contenido.
+
+🔗 [Guía GitHub](https://github.com/gacastroo/guiaGithub)
+
 
 ## Contáctame
 
