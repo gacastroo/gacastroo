@@ -39,6 +39,16 @@ Me especializo en el desarrollo de **aplicaciones web completas**, desde la inte
 
 ## Proyectos Destacados
 
+### 🔹 Proyecto 0 – *Dpunto Stock*
+
+Aplicación web de gestión de inventario y trazabilidad logística desarrollada con **PHP, MySQL, JavaScript y CSS**, con integración móvil mediante **Capacitor para Android**.
+
+Permite gestionar productos, clientes y centros, controlar el recorrido de las piezas a través de seis fases logísticas, registrar movimientos y envíos MRW mediante escaneo QR, e importar y exportar datos en Excel.
+
+El proyecto destaca por su **arquitectura full-stack, control de accesos por roles, diseño responsive y adaptación al modo oscuro**, combinando la gestión administrativa con operaciones de almacén desde el móvil.
+
+🔗[dpunto-stock](https://github.com/gacastroo/dpunto-stock)
+
 ### 🔹 Proyecto 1 – *Portfolio*
 
 Portfolio personal desarrollado con React para presentar mis proyectos, habilidades técnicas y experiencia.
